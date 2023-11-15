@@ -1,4 +1,4 @@
-# befitting-basket-3984
+# StepUp&Field
 Step Up & Field - Footwear Ecommerce Website
 
 Welcome to Step up & field, an ecommerce website for purchasing footwear. Our website is designed to make it easy for you to browse and purchase a wide variety of shoes, from casual to formal, at competitive prices.
